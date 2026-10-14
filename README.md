@@ -1,5 +1,7 @@
 # NopCommerce-Practise
 
+> **Note:** this project was originally developed under my earlier GitHub account, [sajid43677/NopCommerce-Practise](https://github.com/sajid43677/NopCommerce-Practise), and was moved to this account in October 2026.
+
 A practice copy of the [nopCommerce](https://www.nopcommerce.com/) open-source e-commerce platform (**version 4.70.3**), set up for learning plugin development.
 
 ## What's in this repo
